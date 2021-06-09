@@ -3,7 +3,7 @@ source('lib.R')
 
 ###
 
-#NAME <- 'DeepZ'
+#NAME <- 'G4_Li_KPDS'
 #NAME <- 'H3K9me3_A549.ENCFF164FDB.hg19'
 #NAME <- 'H3K9me3_A549.ENCFF164FDB.hg38'
 #NAME <- 'H3K9me3_A549.ENCFF494QKI.hg19'
