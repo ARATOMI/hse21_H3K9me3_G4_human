@@ -75,6 +75,10 @@ bedtools intersect  -a G4_Li_KPDS.bed   -b  H3K9me3_A549.merge.hg19.bed  >  H3K9
 track visibility=dense name="intersect_with_G4_Li_KPDS"  color=200,0,0  description="H3K9me3_A549.intersect_with_G4_Li_KPDS.bed"
 https://raw.githubusercontent.com/ARATOMI/hse21_H3K9me3_G4_human/main/data/H3K9me3_A549.intersect_with_G4_Li_KPDS.bed
 
+# Скачивание скрипта ChIPpeakAnno.R
+wget https://raw.githubusercontent.com/vanya-antonov/hse21_H3K4me3_ZDNA_human/main/src/ChIPpeakAnno.R
+
+
 ```
 
 ## Результаты работы
@@ -96,3 +100,13 @@ https://raw.githubusercontent.com/ARATOMI/hse21_H3K9me3_G4_human/main/data/H3K9m
 ![chip_seeker.G4_Li_KPDS.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.G4_Li_KPDS.plotAnnoPie.png)
 
 ![chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png)
+
+![gb.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/screenshots/gb.png)
+
+![gb2.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/screenshots/gb2.png)
+
+![go.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/screenshots/go.png)
+
+![peaks.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/screenshots/peaks.png)
+
+![wc.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/screenshots/wc.png)
