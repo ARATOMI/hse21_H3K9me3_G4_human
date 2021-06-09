@@ -8,6 +8,7 @@ source('lib.R')
 #NAME <- 'H3K9me3_A549.ENCFF164FDB.hg38'
 #NAME <- 'H3K9me3_A549.ENCFF494QKI.hg19'
 #NAME <- 'H3K9me3_A549.ENCFF494QKI.hg38'
+NAME <- 'H3K9me3_A549.intersect_with_G4_Li_KPDS'
 
 ###
 
