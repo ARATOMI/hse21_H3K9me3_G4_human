@@ -78,3 +78,21 @@ https://raw.githubusercontent.com/ARATOMI/hse21_H3K9me3_G4_human/main/data/H3K9m
 ```
 
 ## Результаты работы
+
+![len_hist.H3K9me3_A549.ENCFF494QKI.hg38.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.ENCFF494QKI.hg38.png)
+
+![len_hist.H3K9me3_A549.ENCFF164FDB.hg38.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.ENCFF164FDB.hg38.png)
+
+![len_hist.H3K9me3_A549.ENCFF494QKI.hg19.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.ENCFF494QKI.hg19.png)
+
+![len_hist.H3K9me3_A549.ENCFF164FDB.hg19.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.ENCFF164FDB.hg19.png)
+
+![len_hist.G4_Li_KPDS.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.G4_Li_KPDS.png)
+
+![chip_seeker.H3K9me3_A549.ENCFF494QKI.hg19.filtered.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.H3K9me3_A549.ENCFF494QKI.hg19.filtered.plotAnnoPie.png)
+
+![chip_seeker.H3K9me3_A549.ENCFF164FDB.hg19.filtered.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.H3K9me3_A549.ENCFF164FDB.hg19.filtered.plotAnnoPie.png)
+
+![chip_seeker.G4_Li_KPDS.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.G4_Li_KPDS.plotAnnoPie.png)
+
+![chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/chip_seeker.H3K9me3_A549.intersect_with_G4_Li_KPDS.plotAnnoPie.png)
