@@ -31,7 +31,7 @@ wget https://github.com/vanya-antonov/hse21_H3K4me3_ZDNA_human/raw/main/src/len_
 
 # Настройка пользователя github
 git config --global user.name "ARATOMI"
-git config --global user.email "asmelikhedov@edu.hse.ru"
+git config --global user.email "*hiden*"
 git config --global core.autocrlf input
 git config --global color.ui auto
 
