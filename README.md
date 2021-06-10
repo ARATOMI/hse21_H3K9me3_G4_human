@@ -91,6 +91,10 @@ wget https://raw.githubusercontent.com/vanya-antonov/hse21_H3K4me3_ZDNA_human/ma
 
 ![len_hist.H3K9me3_A549.ENCFF164FDB.hg19.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.ENCFF164FDB.hg19.png)
 
+![len_hist.H3K9me3_A549.ENCFF494QKI.hg19.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/filter_peaks.H3K9me3_A549.ENCFF494QKI.hg19.filtered.hist.png)
+
+![len_hist.H3K9me3_A549.ENCFF164FDB.hg19.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/filter_peaks.H3K9me3_A549.ENCFF164FDB.hg19.filtered.hist.png)
+
 ![len_hist.G4_Li_KPDS.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.G4_Li_KPDS.png)
 
 ![len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png](https://github.com/ARATOMI/hse21_H3K9me3_G4_human/raw/main/images/len_hist.H3K9me3_A549.intersect_with_G4_Li_KPDS.png)
